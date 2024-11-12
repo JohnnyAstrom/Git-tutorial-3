@@ -1,5 +1,9 @@
 feature3
 
-Hello again! We working hard!
+Hej!
 
-Also final text here!
+Det här är en fil där jag håller på att testa lite hur man arbetar med Git och github tillsammans med olika branches.
+
+Men nu är vi nöjd med slutresultatet!
+
+Mvh!
