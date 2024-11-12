@@ -1,3 +1,5 @@
 feature2
 
-This ia another file i work with.
+This is another file i work with.
+
+This is final text!
