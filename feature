@@ -6,4 +6,6 @@ Det här är en fil där jag håller på att testa lite hur man arbetar med Git 
 
 Men nu är vi nöjd med slutresultatet!
 
+Och här är ännu en uppdatering men denna gång av feature2.
+
 Mvh!
